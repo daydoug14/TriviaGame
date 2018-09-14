@@ -6,6 +6,6 @@ The project demonstates how to build radio buttons programically. Objects (the t
 
 Users can download the source code from github and starts the project.
 
-Users can get help by email to Cindy Pang <cipang@coca-cola.com>
+Users can get help by emailing Doug Day at daydoug14@gmail.com
 
-Cindy Pang maintains and contributes to this project.
+Doug Day maintains and contributes to this project.
